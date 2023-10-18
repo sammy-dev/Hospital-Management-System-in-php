@@ -39,12 +39,12 @@ Make sure you have the following software installed on your system:
 ## Usage
 
 - **Login Credentials:**
-  - **Admin Panel:**
-    - Username: `admin`
-    - Password: `admin123`
-  - **Staff Panel:**
-    - Username: `staff`
-    - Password: `staff123`
+  - **Admin Login Details:**
+    - Email: `admin@mail.com`
+    - Password: `Password@123`
+  - **Doctor Details:**
+    - ID: `YDS7L`
+    - Password: `password`
 
 - **Explore the Features:**
   - Manage Patients, Doctors, Appointments, and more using the intuitive user interface.
